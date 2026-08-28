@@ -1,0 +1,15 @@
+Comment : // sum variable
+Identifier : int
+Identifier : a
+Constant : 10
+Operator : =
+Identifier : b
+Identifier : a
+Operator : +
+Constant : 5
+
+SYMBOL TABLE
+S.No	Name
+1	int
+2	a
+3	b
